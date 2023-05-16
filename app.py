@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
-
-pip install streamlit
-
-
-# In[5]:
-
 
 
 # import all the app dependencies
